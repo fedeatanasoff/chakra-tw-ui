@@ -4,4 +4,7 @@ export default extendTheme({
   colors: {
     primary: theme.colors.twitter,
   },
+  config: {
+    initialColorMode: 'dark',
+  },
 });
